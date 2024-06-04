@@ -35,12 +35,16 @@ Sharing the abstract with collaborators is another valuable way to get fresh eye
 (cm-comms-presentations-abstracts-bios-bio)=
 ## Writing a conference bio
 
-Consider what the conference attendees would find most pertinent and interesting about you. You might mention where you are in your research career, a side project of interest to the community, and a hobby. For example, you might let people know you are a PhD student who has just built their first open-source Python package and dance Bachata in your spare time. Be yourself, [share your story](https://www.juneletters.com/blog/2014/12/17/writers-workshop-5-steps-to-writing-the-perfect-about-me-bio), but be even more concise than your abstract; one or two sentences is often sufficient.
+Consider what the conference attendees would find most pertinent and interesting about you. 
+You might mention where you are in your research career, a side project of interest to the community, and a hobby. 
+For example, you might let people know you are a PhD student who has just built their first open-source Python package and dance Bachata in your spare time. 
+Be yourself, [share your story](https://www.juneletters.com/blog/2014/12/17/writers-workshop-5-steps-to-writing-the-perfect-about-me-bio), but be even more concise than your abstract; one or two sentences is often sufficient.
 
 (cm-comms-presentations-abstracts-bios-summary)=
 ## Final tips
 
-With both your abstract and bio, target the audience of your conference, don't overthink it, tell a compelling story, and be concise. For example, are they domain specialists, with little interest in open source programming, or is it a broad scientific audience where the one of the most common areas of interest is open source science? 
+With both your abstract and bio, target the audience of your conference, don't overthink it, tell a compelling story, and be concise. 
+For example, are they domain specialists, with little interest in open source programming, or is it a broad scientific audience where the one of the most common areas of interest is open source science? 
 
 You may also find it useful to take a look at the sections:
 
